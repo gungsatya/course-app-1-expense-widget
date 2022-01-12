@@ -1,4 +1,4 @@
-# Course App #1 : Personal Expense App
+# Course App #1 : Personal Expenses App
 
 Practicing build a simple apps with flutter to learn about :
 - Flutter Fundamentals (Basic built-in widget, customizing widget, etc)
